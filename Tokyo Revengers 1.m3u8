@@ -4,7 +4,7 @@
 #EXT-X-PLAYLIST-TYPE:VOD
 #EXT-X-VERSION:5
 #EXT-X-MEDIA-SEQUENCE:1
-#EXT-X-KEY:METHOD=AES-128,URI="https://ll.v.vrv.co/evs1/a4bfb7dd44a7ffbf8ff7ce538bbf280f/assets/6c99638b4e332e98debf142e190dc9fb_4027936.mp4/encryption.key?t=exp=1633504000~acl=/evs1/a4bfb7dd44a7ffbf8ff7ce538bbf280f/assets/6c99638b4e332e98debf142e190dc9fb_4027936.mp4/*~hmac=eaf0235de493e0076c65003e9525d79b911d68276aef2a2133a6de6c2bbbd2e2"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/DevLight1/M4J94K/main/encryption.key"
 #EXTINF:2.002,
 https://ll.v.vrv.co/evs1/a4bfb7dd44a7ffbf8ff7ce538bbf280f/assets/6c99638b4e332e98debf142e190dc9fb_4027936.mp4/seg-1-v1-a1.ts?t=exp=1633504000~acl=/evs1/a4bfb7dd44a7ffbf8ff7ce538bbf280f/assets/6c99638b4e332e98debf142e190dc9fb_4027936.mp4/*~hmac=eaf0235de493e0076c65003e9525d79b911d68276aef2a2133a6de6c2bbbd2e2
 #EXTINF:2.002,
